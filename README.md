@@ -7,4 +7,5 @@ Many Web Application Firewalls implement inspection limits on incoming requests 
 
 ![](assets/diagram.png)
 
-<img src="assets/diagram.png" width="300" />
+
+<center><img src="assets/diagram.png" width="650" /></center>
