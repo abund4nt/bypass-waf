@@ -1,2 +1,2 @@
 # bypass-waf
-Modern techniques to bypass the most widely used WAFs. A practical collection of real-world evasion methods.
+Web Application Firewalls (WAFs) are a common security layer designed to detect and block malicious traffic. However, no WAF is perfect. This repository documents modern, practical techniques for bypassing popular WAFs in real-world scenarios. The goal is to help offensive security professionals, penetration testers, and researchers understand WAF behavior, improve evasion strategies, and stay ahead in the constantly evolving field of web security.
