@@ -28,7 +28,7 @@ This section lists the WAFs that have been tested and bypassed, including the ve
 
 | WAF Name         | Vendor            | Bypass Technique                | Status       | PoC Section         |
 |------------------|-------------------|----------------------------------|--------------|----------------------|
-| Cloudflare WAF          | Cloudflare | Large Payload (8KB limit)        | ✅ Bypassed   | [See PoC](#aws-waf-poc) |
+| Cloudflare WAF          | Cloudflare | Large Payload (8KB limit for Free plan, 128KB for Enterprise)       | ✅ Bypassed   | [See PoC](#aws-waf-poc) |
 | AWS WAF   | Amazon Web Services | TBD                              | ⏳ Testing    |                      |
 | Azure WAF        | Microsoft Azure    | TBD                              | ⏳ Testing    |                      |
 | Imperva WAF      | Imperva            | TBD                              | ⏳ Testing    |                      |
